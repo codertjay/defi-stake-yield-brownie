@@ -1,0 +1,8 @@
+
+.header_container {
+    /*padding: 12px;*/
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+    /*gap: 12px*/
+}

@@ -1,0 +1,16 @@
+
+
+.app_name{
+    display: flex;
+   justify-content: center;
+}
+
+.app_main{
+    background-color: whitesmoke;
+    padding: 10px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: black;
+}

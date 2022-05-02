@@ -1,0 +1,15 @@
+.container {
+    display: inline-grid;
+    grid-template-columns: auto auto auto;
+    gap: 10px;
+    align-items: center;
+}
+
+.tokenImg {
+    width: 32px;
+}
+
+.amount{
+    font-weight: 70;
+
+}
